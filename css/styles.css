@@ -6,16 +6,24 @@ body {
 }
 
 h1 {
+  font-size: 5.625rem;
   font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
 
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #347474;
 }
 
-h2 {
+h3 {
   font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+
 }
 
 /**********************************CLASS STYLES*************************************/
@@ -26,20 +34,22 @@ h2 {
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
-  padding: 10px;
+  padding-top: 20px;
+
 }
 
 .name {
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
-  color: #a7e9af;
+  color: #a9fffd;
 }
 
 .job {
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
+  color: #a9fffd;
 }
 
 .mid-container{
