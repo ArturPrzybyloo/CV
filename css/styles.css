@@ -2,10 +2,12 @@
 body {
   margin: 0;
   font-family: 'Merriweather', serif;
+    text-align: center;
 }
 
 h1 {
   font-family: 'Sacramento', cursive;
+
 }
 
 h2 {
@@ -24,7 +26,6 @@ h2 {
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
-  text-align: center;
   padding: 10px;
 }
 
@@ -42,15 +43,12 @@ h2 {
 }
 
 .mid-container{
-  background-color: white;
-  margin-top: 60px;
+
 
 }
 
 .bot-container{
-  background-color: blue;
-  width: 300px;
-  height: 300px;
+
 }
 
 .qa {
@@ -62,8 +60,7 @@ h2 {
 .avatar {
   width: 150px;
   height: 150px;
-  position: relative;
-  left: 47%;
+
 }
 
 /**********************************ID STYLES*************************************/
