@@ -16,14 +16,16 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   color: #347474;
+  font-weight: normal;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  color: #758184;
 }
 
 hr {
-
+  border-style: dotted;
 }
 
 /**********************************CLASS STYLES*************************************/
@@ -70,7 +72,27 @@ hr {
 .avatar {
   width: 150px;
   height: 150px;
+  margin-top: 40px;
 
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code {
+  width: 14%;
+  float: left;
+  margin-right: 40px;
+}
+
+.bug-img {
+  width: 14%;
+  float: right;
+  margin-left: 40px;
 }
 
 /**********************************ID STYLES*************************************/
