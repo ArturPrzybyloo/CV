@@ -1,0 +1,69 @@
+/**********************************TAG STYLES*************************************/
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/**********************************CLASS STYLES*************************************/
+
+
+.top-container {
+  background-color: #347474;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  text-align: center;
+  padding: 10px;
+}
+
+.name {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  color: #a7e9af;
+}
+
+.job {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.mid-container{
+  background-color: white;
+  margin-top: 60px;
+
+}
+
+.bot-container{
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+}
+
+.qa {
+  width: 100%;
+  height: 20%;
+
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 47%;
+}
+
+/**********************************ID STYLES*************************************/
