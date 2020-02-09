@@ -175,6 +175,13 @@ box-sizing: border-box;
   margin-right: 40px;
 }
 
+.phone {
+  height: 40px;
+  width: 40px;
+
+  margin-left: 40px;
+}
+
 .intro {
   width: 30%;
   margin: auto;
@@ -208,7 +215,7 @@ box-sizing: border-box;
   display: inline-block;
   cursor: pointer;
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 
 .btn:hover {
